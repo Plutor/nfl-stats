@@ -1,0 +1,1318 @@
+Season,Team,Actual SOS,Predicted SOS
+1970,Cleveland Browns,0.503,0.000
+1970,Pittsburgh Steelers,0.416,0.000
+1970,Buffalo Bills,0.500,0.000
+1970,New Orleans Saints,0.607,0.000
+1970,Denver Broncos,0.459,0.000
+1970,New York Jets,0.538,0.000
+1970,San Francisco 49ers,0.444,0.000
+1970,Cincinnati Bengals,0.401,0.000
+1970,Atlanta Falcons,0.526,0.000
+1970,Miami Dolphins,0.370,0.000
+1970,Chicago Bears,0.551,0.000
+1970,Philadelphia Eagles,0.564,0.000
+1970,Dallas Cowboys,0.487,0.000
+1970,Baltimore Colts,0.370,0.000
+1970,San Diego Chargers,0.503,0.000
+1970,Los Angeles Rams,0.487,0.000
+1970,New York Giants,0.426,0.000
+1970,Oakland Raiders,0.513,0.000
+1970,Houston Oilers,0.564,0.000
+1970,Minnesota Vikings,0.464,0.000
+1970,Washington Redskins,0.597,0.000
+1970,Detroit Lions,0.556,0.000
+1970,Boston Patriots,0.561,0.000
+1970,Kansas City Chiefs,0.523,0.000
+1970,Green Bay Packers,0.599,0.000
+1970,St. Louis Cardinals,0.472,0.000
+1971,Pittsburgh Steelers,0.485,0.526
+1971,Cleveland Browns,0.464,0.411
+1971,New Orleans Saints,0.587,0.559
+1971,Buffalo Bills,0.574,0.508
+1971,Denver Broncos,0.538,0.523
+1971,New York Jets,0.510,0.518
+1971,San Francisco 49ers,0.510,0.439
+1971,Cincinnati Bengals,0.480,0.411
+1971,Atlanta Falcons,0.505,0.584
+1971,Chicago Bears,0.566,0.587
+1971,Miami Dolphins,0.408,0.398
+1971,Dallas Cowboys,0.416,0.406
+1971,Philadelphia Eagles,0.526,0.622
+1971,Baltimore Colts,0.482,0.441
+1971,New England Patriots,0.536,0.551
+1971,Los Angeles Rams,0.554,0.513
+1971,San Diego Chargers,0.454,0.503
+1971,New York Giants,0.554,0.520
+1971,Minnesota Vikings,0.439,0.490
+1971,Oakland Raiders,0.482,0.413
+1971,Houston Oilers,0.472,0.436
+1971,Washington Redskins,0.487,0.503
+1971,Detroit Lions,0.515,0.477
+1971,Green Bay Packers,0.497,0.582
+1971,Kansas City Chiefs,0.467,0.467
+1971,St. Louis Cardinals,0.492,0.472
+1972,New Orleans Saints,0.500,0.543
+1972,Pittsburgh Steelers,0.459,0.480
+1972,Cleveland Browns,0.439,0.380
+1972,Buffalo Bills,0.599,0.587
+1972,Denver Broncos,0.492,0.538
+1972,New York Jets,0.492,0.508
+1972,San Francisco 49ers,0.436,0.490
+1972,Cincinnati Bengals,0.482,0.497
+1972,Atlanta Falcons,0.439,0.503
+1972,Miami Dolphins,0.367,0.441
+1972,Chicago Bears,0.554,0.536
+1972,Philadelphia Eagles,0.508,0.518
+1972,Dallas Cowboys,0.508,0.472
+1972,Baltimore Colts,0.513,0.469
+1972,Los Angeles Rams,0.441,0.490
+1972,New England Patriots,0.538,0.467
+1972,San Diego Chargers,0.587,0.589
+1972,New York Giants,0.523,0.528
+1972,Minnesota Vikings,0.556,0.482
+1972,Washington Redskins,0.452,0.452
+1972,Houston Oilers,0.605,0.474
+1972,Oakland Raiders,0.446,0.423
+1972,Detroit Lions,0.474,0.474
+1972,St. Louis Cardinals,0.566,0.582
+1972,Green Bay Packers,0.513,0.579
+1972,Kansas City Chiefs,0.510,0.497
+1973,Cleveland Browns,0.533,0.528
+1973,Pittsburgh Steelers,0.487,0.546
+1973,Buffalo Bills,0.459,0.462
+1973,New Orleans Saints,0.526,0.520
+1973,Denver Broncos,0.446,0.513
+1973,New York Jets,0.554,0.492
+1973,San Francisco 49ers,0.622,0.515
+1973,Cincinnati Bengals,0.490,0.482
+1973,Atlanta Falcons,0.464,0.398
+1973,Miami Dolphins,0.474,0.497
+1973,Chicago Bears,0.546,0.480
+1973,Dallas Cowboys,0.485,0.472
+1973,Philadelphia Eagles,0.500,0.531
+1973,Baltimore Colts,0.510,0.513
+1973,Los Angeles Rams,0.452,0.482
+1973,San Diego Chargers,0.597,0.531
+1973,New England Patriots,0.429,0.467
+1973,New York Giants,0.554,0.515
+1973,Houston Oilers,0.551,0.554
+1973,Washington Redskins,0.398,0.459
+1973,Oakland Raiders,0.464,0.487
+1973,Minnesota Vikings,0.472,0.546
+1973,Detroit Lions,0.518,0.543
+1973,Green Bay Packers,0.454,0.449
+1973,Kansas City Chiefs,0.480,0.446
+1973,St. Louis Cardinals,0.536,0.571
+1974,Buffalo Bills,0.495,0.457
+1974,Pittsburgh Steelers,0.431,0.469
+1974,Cleveland Browns,0.579,0.487
+1974,New Orleans Saints,0.536,0.579
+1974,Denver Broncos,0.508,0.492
+1974,New York Jets,0.464,0.454
+1974,San Francisco 49ers,0.480,0.559
+1974,Cincinnati Bengals,0.515,0.487
+1974,Atlanta Falcons,0.487,0.528
+1974,Chicago Bears,0.474,0.490
+1974,Miami Dolphins,0.434,0.452
+1974,Philadelphia Eagles,0.487,0.449
+1974,Dallas Cowboys,0.510,0.457
+1974,Baltimore Colts,0.556,0.554
+1974,New England Patriots,0.543,0.571
+1974,Los Angeles Rams,0.467,0.503
+1974,San Diego Chargers,0.520,0.513
+1974,New York Giants,0.526,0.487
+1974,Oakland Raiders,0.477,0.513
+1974,Washington Redskins,0.508,0.490
+1974,Minnesota Vikings,0.454,0.436
+1974,Houston Oilers,0.533,0.582
+1974,Detroit Lions,0.492,0.508
+1974,Kansas City Chiefs,0.579,0.490
+1974,Green Bay Packers,0.480,0.510
+1974,St. Louis Cardinals,0.464,0.485
+1975,Pittsburgh Steelers,0.469,0.457
+1975,Cleveland Browns,0.648,0.548
+1975,New Orleans Saints,0.510,0.474
+1975,Buffalo Bills,0.556,0.515
+1975,Denver Broncos,0.469,0.518
+1975,New York Jets,0.582,0.543
+1975,San Francisco 49ers,0.439,0.434
+1975,Cincinnati Bengals,0.459,0.503
+1975,Atlanta Falcons,0.551,0.569
+1975,Miami Dolphins,0.444,0.477
+1975,Chicago Bears,0.571,0.548
+1975,Dallas Cowboys,0.459,0.510
+1975,Philadelphia Eagles,0.592,0.538
+1975,Baltimore Colts,0.449,0.536
+1975,Los Angeles Rams,0.383,0.395
+1975,San Diego Chargers,0.571,0.559
+1975,New England Patriots,0.566,0.515
+1975,New York Giants,0.495,0.526
+1975,Oakland Raiders,0.429,0.429
+1975,Washington Redskins,0.520,0.485
+1975,Minnesota Vikings,0.332,0.423
+1975,Houston Oilers,0.526,0.541
+1975,Detroit Lions,0.510,0.474
+1975,Kansas City Chiefs,0.500,0.513
+1975,Green Bay Packers,0.546,0.505
+1975,St. Louis Cardinals,0.423,0.464
+1976,Buffalo Bills,0.485,0.439
+1976,Cleveland Browns,0.444,0.510
+1976,Pittsburgh Steelers,0.528,0.490
+1976,New Orleans Saints,0.518,0.474
+1976,Denver Broncos,0.490,0.383
+1976,New York Jets,0.541,0.485
+1976,San Francisco 49ers,0.467,0.408
+1976,Cincinnati Bengals,0.533,0.515
+1976,Atlanta Falcons,0.480,0.408
+1976,Miami Dolphins,0.510,0.469
+1976,Chicago Bears,0.574,0.520
+1976,Philadelphia Eagles,0.574,0.520
+1976,Dallas Cowboys,0.429,0.429
+1976,Baltimore Colts,0.439,0.469
+1976,New England Patriots,0.439,0.510
+1976,San Diego Chargers,0.556,0.526
+1976,Los Angeles Rams,0.446,0.418
+1976,New York Giants,0.607,0.587
+1976,Washington Redskins,0.444,0.429
+1976,Houston Oilers,0.546,0.485
+1976,Oakland Raiders,0.469,0.378
+1976,Minnesota Vikings,0.426,0.408
+1976,Seattle Seahawks,0.480,0.449
+1976,Tampa Bay Buccaneers,0.520,0.480
+1976,Detroit Lions,0.477,0.418
+1976,St. Louis Cardinals,0.503,0.444
+1976,Kansas City Chiefs,0.546,0.469
+1976,Green Bay Packers,0.531,0.480
+1977,Pittsburgh Steelers,0.556,0.566
+1977,Buffalo Bills,0.582,0.556
+1977,New Orleans Saints,0.444,0.439
+1977,Cleveland Browns,0.520,0.523
+1977,Denver Broncos,0.520,0.556
+1977,San Francisco 49ers,0.495,0.457
+1977,New York Jets,0.536,0.500
+1977,Cincinnati Bengals,0.510,0.487
+1977,Atlanta Falcons,0.449,0.487
+1977,Miami Dolphins,0.459,0.485
+1977,Chicago Bears,0.418,0.441
+1977,Dallas Cowboys,0.485,0.503
+1977,Philadelphia Eagles,0.505,0.523
+1977,Baltimore Colts,0.474,0.439
+1977,New England Patriots,0.429,0.378
+1977,San Diego Chargers,0.541,0.571
+1977,Los Angeles Rams,0.434,0.467
+1977,New York Giants,0.526,0.551
+1977,Washington Redskins,0.480,0.452
+1977,Houston Oilers,0.520,0.551
+1977,Minnesota Vikings,0.510,0.523
+1977,Oakland Raiders,0.485,0.474
+1977,Seattle Seahawks,0.510,0.510
+1977,Tampa Bay Buccaneers,0.490,0.490
+1977,Detroit Lions,0.485,0.485
+1977,St. Louis Cardinals,0.546,0.477
+1977,Kansas City Chiefs,0.607,0.592
+1977,Green Bay Packers,0.485,0.518
+1978,New Orleans Saints,0.512,0.500
+1978,Cleveland Browns,0.496,0.491
+1978,Buffalo Bills,0.488,0.473
+1978,Pittsburgh Steelers,0.449,0.464
+1978,Denver Broncos,0.500,0.473
+1978,San Francisco 49ers,0.512,0.455
+1978,New York Jets,0.547,0.545
+1978,Cincinnati Bengals,0.559,0.504
+1978,Atlanta Falcons,0.457,0.438
+1978,Chicago Bears,0.469,0.437
+1978,Miami Dolphins,0.488,0.491
+1978,Dallas Cowboys,0.504,0.429
+1978,Philadelphia Eagles,0.527,0.491
+1978,Baltimore Colts,0.570,0.482
+1978,New England Patriots,0.488,0.500
+1978,San Diego Chargers,0.512,0.549
+1978,Los Angeles Rams,0.473,0.437
+1978,St Louis Cardinals,0.508,0.540
+1978,New York Giants,0.465,0.384
+1978,Washington Redskins,0.492,0.460
+1978,Minnesota Vikings,0.516,0.478
+1978,Oakland Raiders,0.512,0.513
+1978,Houston Oilers,0.512,0.504
+1978,Seattle Seahawks,0.508,0.536
+1978,Detroit Lions,0.469,0.464
+1978,Tampa Bay Buccaneers,0.441,0.429
+1978,Kansas City Chiefs,0.512,0.509
+1978,Green Bay Packers,0.516,0.522
+1979,Pittsburgh Steelers,0.527,0.480
+1979,Buffalo Bills,0.492,0.539
+1979,Cleveland Browns,0.543,0.535
+1979,New Orleans Saints,0.461,0.494
+1979,Denver Broncos,0.512,0.492
+1979,San Francisco 49ers,0.527,0.537
+1979,New York Jets,0.484,0.512
+1979,Cincinnati Bengals,0.590,0.559
+1979,Atlanta Falcons,0.477,0.479
+1979,Miami Dolphins,0.469,0.488
+1979,Chicago Bears,0.426,0.488
+1979,Philadelphia Eagles,0.473,0.514
+1979,Dallas Cowboys,0.500,0.482
+1979,Baltimore Colts,0.523,0.488
+1979,New England Patriots,0.477,0.492
+1979,San Diego Chargers,0.496,0.500
+1979,Los Angeles Rams,0.473,0.459
+1979,New York Giants,0.512,0.465
+1979,St Louis Cardinals,0.547,0.529
+1979,Minnesota Vikings,0.449,0.477
+1979,Oakland Raiders,0.543,0.512
+1979,Washington Redskins,0.480,0.521
+1979,Houston Oilers,0.527,0.520
+1979,Seattle Seahawks,0.543,0.512
+1979,Tampa Bay Buccaneers,0.379,0.441
+1979,Detroit Lions,0.520,0.492
+1979,Green Bay Packers,0.496,0.480
+1979,Kansas City Chiefs,0.555,0.512
+1980,New Orleans Saints,0.543,0.441
+1980,Buffalo Bills,0.488,0.492
+1980,Pittsburgh Steelers,0.543,0.508
+1980,Cleveland Browns,0.469,0.523
+1980,Denver Broncos,0.539,0.582
+1980,San Francisco 49ers,0.477,0.465
+1980,New York Jets,0.531,0.492
+1980,Cincinnati Bengals,0.566,0.570
+1980,Atlanta Falcons,0.457,0.457
+1980,Miami Dolphins,0.512,0.469
+1980,Chicago Bears,0.492,0.465
+1980,Dallas Cowboys,0.453,0.508
+1980,Philadelphia Eagles,0.457,0.527
+1980,Baltimore Colts,0.520,0.488
+1980,San Diego Chargers,0.508,0.551
+1980,Los Angeles Rams,0.438,0.410
+1980,New England Patriots,0.484,0.484
+1980,St Louis Cardinals,0.512,0.457
+1980,New York Giants,0.516,0.547
+1980,Washington Redskins,0.504,0.535
+1980,Oakland Raiders,0.508,0.574
+1980,Houston Oilers,0.469,0.508
+1980,Minnesota Vikings,0.477,0.488
+1980,Seattle Seahawks,0.570,0.590
+1980,Tampa Bay Buccaneers,0.512,0.438
+1980,Detroit Lions,0.426,0.434
+1980,Kansas City Chiefs,0.520,0.520
+1980,Green Bay Packers,0.512,0.477
+1981,Cleveland Browns,0.518,0.496
+1981,Buffalo Bills,0.492,0.504
+1981,New Orleans Saints,0.523,0.531
+1981,Pittsburgh Steelers,0.484,0.512
+1981,Denver Broncos,0.480,0.521
+1981,San Francisco 49ers,0.457,0.502
+1981,New York Jets,0.438,0.494
+1981,Cincinnati Bengals,0.463,0.535
+1981,Atlanta Falcons,0.500,0.445
+1981,Miami Dolphins,0.457,0.539
+1981,Chicago Bears,0.543,0.512
+1981,Philadelphia Eagles,0.486,0.459
+1981,Dallas Cowboys,0.494,0.480
+1981,Baltimore Colts,0.555,0.535
+1981,San Diego Chargers,0.480,0.498
+1981,Los Angeles Rams,0.512,0.463
+1981,New England Patriots,0.531,0.523
+1981,New York Giants,0.533,0.465
+1981,St Louis Cardinals,0.510,0.514
+1981,Minnesota Vikings,0.492,0.477
+1981,Oakland Raiders,0.502,0.510
+1981,Houston Oilers,0.492,0.496
+1981,Washington Redskins,0.525,0.527
+1981,Seattle Seahawks,0.555,0.510
+1981,Tampa Bay Buccaneers,0.477,0.504
+1981,Detroit Lions,0.527,0.496
+1981,Kansas City Chiefs,0.486,0.533
+1981,Green Bay Packers,0.486,0.418
+1982,Pittsburgh Steelers,0.469,0.472
+1982,New Orleans Saints,0.531,0.542
+1982,Buffalo Bills,0.543,0.472
+1982,Cleveland Browns,0.543,0.521
+1982,Denver Broncos,0.506,0.465
+1982,San Francisco 49ers,0.457,0.410
+1982,New York Jets,0.519,0.472
+1982,Cincinnati Bengals,0.414,0.382
+1982,Atlanta Falcons,0.463,0.424
+1982,Miami Dolphins,0.444,0.438
+1982,Chicago Bears,0.469,0.396
+1982,Dallas Cowboys,0.506,0.451
+1982,Philadelphia Eagles,0.580,0.535
+1982,Baltimore Colts,0.648,0.573
+1982,San Diego Chargers,0.463,0.424
+1982,Los Angeles Rams,0.451,0.514
+1982,New England Patriots,0.438,0.458
+1982,St Louis Cardinals,0.543,0.535
+1982,New York Giants,0.525,0.507
+1982,Washington Redskins,0.481,0.535
+1982,Minnesota Vikings,0.506,0.535
+1982,Los Angeles Raiders,0.469,0.576
+1982,Houston Oilers,0.568,0.528
+1982,Seattle Seahawks,0.469,0.417
+1982,Tampa Bay Buccaneers,0.580,0.535
+1982,Detroit Lions,0.481,0.483
+1982,Green Bay Packers,0.426,0.469
+1982,Kansas City Chiefs,0.506,0.497
+1983,New Orleans Saints,0.510,0.479
+1983,Cleveland Browns,0.434,0.493
+1983,Buffalo Bills,0.504,0.486
+1983,Pittsburgh Steelers,0.426,0.465
+1983,Denver Broncos,0.473,0.465
+1983,New York Jets,0.539,0.465
+1983,San Francisco 49ers,0.494,0.493
+1983,Cincinnati Bengals,0.480,0.458
+1983,Atlanta Falcons,0.533,0.469
+1983,Miami Dolphins,0.473,0.444
+1983,Chicago Bears,0.445,0.427
+1983,Dallas Cowboys,0.480,0.542
+1983,Philadelphia Eagles,0.555,0.476
+1983,Baltimore Colts,0.504,0.500
+1983,Los Angeles Rams,0.518,0.510
+1983,San Diego Chargers,0.562,0.542
+1983,New England Patriots,0.531,0.479
+1983,St Louis Cardinals,0.508,0.556
+1983,New York Giants,0.566,0.566
+1983,Washington Redskins,0.484,0.510
+1983,Los Angeles Raiders,0.496,0.500
+1983,Minnesota Vikings,0.471,0.493
+1983,Houston Oilers,0.520,0.542
+1983,Seattle Seahawks,0.539,0.569
+1983,Tampa Bay Buccaneers,0.518,0.493
+1983,Detroit Lions,0.443,0.514
+1983,Kansas City Chiefs,0.543,0.569
+1983,Green Bay Packers,0.451,0.493
+1984,Cleveland Browns,0.496,0.465
+1984,Buffalo Bills,0.553,0.498
+1984,Pittsburgh Steelers,0.465,0.441
+1984,New Orleans Saints,0.523,0.477
+1984,Denver Broncos,0.490,0.512
+1984,San Francisco 49ers,0.418,0.459
+1984,New York Jets,0.445,0.396
+1984,Cincinnati Bengals,0.473,0.480
+1984,Atlanta Falcons,0.504,0.482
+1984,Chicago Bears,0.473,0.498
+1984,Miami Dolphins,0.428,0.451
+1984,Indianapolis Colts,0.506,0.545
+1984,Dallas Cowboys,0.527,0.480
+1984,Philadelphia Eagles,0.514,0.539
+1984,Los Angeles Rams,0.500,0.469
+1984,San Diego Chargers,0.561,0.504
+1984,New England Patriots,0.498,0.498
+1984,St Louis Cardinals,0.527,0.508
+1984,New York Giants,0.523,0.508
+1984,Minnesota Vikings,0.533,0.492
+1984,Houston Oilers,0.512,0.504
+1984,Los Angeles Raiders,0.529,0.457
+1984,Washington Redskins,0.479,0.469
+1984,Seattle Seahawks,0.498,0.512
+1984,Tampa Bay Buccaneers,0.469,0.469
+1984,Detroit Lions,0.521,0.484
+1984,Green Bay Packers,0.488,0.498
+1984,Kansas City Chiefs,0.547,0.467
+1985,Cleveland Browns,0.488,0.492
+1985,Buffalo Bills,0.527,0.455
+1985,New Orleans Saints,0.492,0.561
+1985,Pittsburgh Steelers,0.465,0.461
+1985,Denver Broncos,0.496,0.555
+1985,San Francisco 49ers,0.520,0.508
+1985,New York Jets,0.496,0.479
+1985,Cincinnati Bengals,0.496,0.469
+1985,Atlanta Falcons,0.566,0.594
+1985,Chicago Bears,0.473,0.453
+1985,Miami Dolphins,0.465,0.412
+1985,Indianapolis Colts,0.520,0.490
+1985,Dallas Cowboys,0.496,0.506
+1985,Philadelphia Eagles,0.484,0.496
+1985,San Diego Chargers,0.465,0.494
+1985,New England Patriots,0.496,0.463
+1985,Los Angeles Rams,0.445,0.537
+1985,St Louis Cardinals,0.496,0.496
+1985,New York Giants,0.457,0.496
+1985,Washington Redskins,0.496,0.490
+1985,Minnesota Vikings,0.461,0.449
+1985,Houston Oilers,0.480,0.508
+1985,Los Angeles Raiders,0.520,0.566
+1985,Seattle Seahawks,0.551,0.559
+1985,Tampa Bay Buccaneers,0.562,0.469
+1985,Detroit Lions,0.535,0.496
+1985,Kansas City Chiefs,0.535,0.594
+1985,Green Bay Packers,0.516,0.453
+1986,Pittsburgh Steelers,0.555,0.492
+1986,Buffalo Bills,0.482,0.484
+1986,Cleveland Browns,0.434,0.469
+1986,New Orleans Saints,0.521,0.512
+1986,Denver Broncos,0.545,0.551
+1986,San Francisco 49ers,0.494,0.473
+1986,New York Jets,0.484,0.480
+1986,Cincinnati Bengals,0.523,0.492
+1986,Atlanta Falcons,0.488,0.535
+1986,Miami Dolphins,0.469,0.473
+1986,Indianapolis Colts,0.508,0.527
+1986,Chicago Bears,0.402,0.418
+1986,Dallas Cowboys,0.553,0.547
+1986,Philadelphia Eagles,0.564,0.570
+1986,Los Angeles Rams,0.469,0.480
+1986,San Diego Chargers,0.564,0.551
+1986,New England Patriots,0.477,0.480
+1986,New York Giants,0.475,0.520
+1986,St Louis Cardinals,0.508,0.453
+1986,Los Angeles Raiders,0.533,0.520
+1986,Washington Redskins,0.490,0.520
+1986,Houston Oilers,0.488,0.492
+1986,Minnesota Vikings,0.494,0.492
+1986,Seattle Seahawks,0.553,0.574
+1986,Tampa Bay Buccaneers,0.477,0.477
+1986,Detroit Lions,0.473,0.480
+1986,Green Bay Packers,0.533,0.484
+1986,Kansas City Chiefs,0.443,0.453
+1987,Cleveland Browns,0.502,0.446
+1987,New Orleans Saints,0.500,0.504
+1987,Pittsburgh Steelers,0.524,0.517
+1987,Buffalo Bills,0.536,0.548
+1987,Denver Broncos,0.464,0.483
+1987,San Francisco 49ers,0.473,0.483
+1987,New York Jets,0.498,0.502
+1987,Cincinnati Bengals,0.560,0.483
+1987,Atlanta Falcons,0.542,0.483
+1987,Chicago Bears,0.469,0.463
+1987,Miami Dolphins,0.489,0.485
+1987,Indianapolis Colts,0.484,0.454
+1987,Philadelphia Eagles,0.531,0.517
+1987,Dallas Cowboys,0.467,0.515
+1987,San Diego Chargers,0.480,0.454
+1987,New England Patriots,0.509,0.469
+1987,Los Angeles Rams,0.551,0.450
+1987,New York Giants,0.562,0.456
+1987,Minnesota Vikings,0.447,0.481
+1987,Washington Redskins,0.427,0.444
+1987,Los Angeles Raiders,0.518,0.537
+1987,Houston Oilers,0.536,0.517
+1987,Seattle Seahawks,0.451,0.533
+1987,Detroit Lions,0.451,0.498
+1987,Tampa Bay Buccaneers,0.518,0.425
+1987,Kansas City Chiefs,0.496,0.512
+1987,Green Bay Packers,0.518,0.558
+1987,St. Louis Cardinals,0.498,0.500
+1988,New Orleans Saints,0.469,0.485
+1988,Buffalo Bills,0.508,0.485
+1988,Pittsburgh Steelers,0.531,0.477
+1988,Cleveland Browns,0.492,0.473
+1988,Denver Broncos,0.473,0.504
+1988,San Francisco 49ers,0.512,0.477
+1988,New York Jets,0.516,0.471
+1988,Cincinnati Bengals,0.484,0.487
+1988,Atlanta Falcons,0.492,0.533
+1988,Chicago Bears,0.445,0.467
+1988,Miami Dolphins,0.535,0.498
+1988,Indianapolis Colts,0.535,0.517
+1988,Philadelphia Eagles,0.477,0.417
+1988,Dallas Cowboys,0.559,0.471
+1988,San Diego Chargers,0.484,0.500
+1988,Los Angeles Rams,0.496,0.508
+1988,Phoenix Cardinals,0.492,0.506
+1988,New England Patriots,0.555,0.504
+1988,New York Giants,0.430,0.425
+1988,Washington Redskins,0.520,0.469
+1988,Los Angeles Raiders,0.508,0.521
+1988,Minnesota Vikings,0.465,0.500
+1988,Houston Oilers,0.500,0.458
+1988,Seattle Seahawks,0.496,0.512
+1988,Tampa Bay Buccaneers,0.508,0.462
+1988,Detroit Lions,0.516,0.471
+1988,Green Bay Packers,0.504,0.442
+1988,Kansas City Chiefs,0.500,0.492
+1989,New Orleans Saints,0.492,0.475
+1989,Pittsburgh Steelers,0.482,0.539
+1989,Cleveland Browns,0.494,0.512
+1989,Buffalo Bills,0.477,0.543
+1989,Denver Broncos,0.518,0.480
+1989,San Francisco 49ers,0.457,0.518
+1989,New York Jets,0.506,0.527
+1989,Atlanta Falcons,0.535,0.525
+1989,Cincinnati Bengals,0.514,0.506
+1989,Indianapolis Colts,0.482,0.555
+1989,Chicago Bears,0.568,0.477
+1989,Miami Dolphins,0.451,0.508
+1989,Philadelphia Eagles,0.496,0.496
+1989,Dallas Cowboys,0.584,0.475
+1989,San Diego Chargers,0.535,0.482
+1989,Los Angeles Rams,0.477,0.529
+1989,Phoenix Cardinals,0.492,0.445
+1989,New England Patriots,0.500,0.535
+1989,New York Giants,0.500,0.465
+1989,Washington Redskins,0.441,0.477
+1989,Los Angeles Raiders,0.504,0.502
+1989,Minnesota Vikings,0.502,0.477
+1989,Houston Oilers,0.490,0.510
+1989,Seattle Seahawks,0.533,0.500
+1989,Tampa Bay Buccaneers,0.545,0.520
+1989,Detroit Lions,0.494,0.520
+1989,Green Bay Packers,0.436,0.451
+1989,Kansas City Chiefs,0.494,0.453
+1990,New Orleans Saints,0.461,0.506
+1990,Cleveland Browns,0.543,0.529
+1990,Pittsburgh Steelers,0.453,0.516
+1990,Buffalo Bills,0.465,0.490
+1990,Denver Broncos,0.535,0.498
+1990,San Francisco 49ers,0.445,0.506
+1990,New York Jets,0.473,0.443
+1990,Cincinnati Bengals,0.449,0.508
+1990,Atlanta Falcons,0.504,0.541
+1990,Chicago Bears,0.430,0.498
+1990,Miami Dolphins,0.488,0.482
+1990,Indianapolis Colts,0.531,0.494
+1990,Dallas Cowboys,0.516,0.520
+1990,Philadelphia Eagles,0.488,0.469
+1990,San Diego Chargers,0.504,0.463
+1990,Los Angeles Rams,0.535,0.518
+1990,Phoenix Cardinals,0.559,0.492
+1990,New England Patriots,0.594,0.502
+1990,New York Giants,0.500,0.492
+1990,Washington Redskins,0.555,0.484
+1990,Minnesota Vikings,0.547,0.533
+1990,Houston Oilers,0.492,0.518
+1990,Los Angeles Raiders,0.523,0.516
+1990,Seattle Seahawks,0.500,0.508
+1990,Detroit Lions,0.512,0.510
+1990,Tampa Bay Buccaneers,0.453,0.449
+1990,Green Bay Packers,0.504,0.514
+1990,Kansas City Chiefs,0.441,0.502
+1991,New Orleans Saints,0.480,0.512
+1991,Pittsburgh Steelers,0.492,0.480
+1991,Buffalo Bills,0.410,0.477
+1991,Cleveland Browns,0.492,0.508
+1991,Denver Broncos,0.434,0.465
+1991,San Francisco 49ers,0.512,0.488
+1991,New York Jets,0.445,0.477
+1991,Cincinnati Bengals,0.570,0.523
+1991,Atlanta Falcons,0.477,0.516
+1991,Indianapolis Colts,0.504,0.492
+1991,Chicago Bears,0.496,0.512
+1991,Miami Dolphins,0.445,0.461
+1991,Philadelphia Eagles,0.504,0.523
+1991,Dallas Cowboys,0.531,0.512
+1991,San Diego Chargers,0.543,0.531
+1991,Los Angeles Rams,0.555,0.539
+1991,Phoenix Cardinals,0.602,0.508
+1991,New England Patriots,0.480,0.496
+1991,New York Giants,0.516,0.508
+1991,Houston Oilers,0.500,0.504
+1991,Los Angeles Raiders,0.500,0.516
+1991,Minnesota Vikings,0.469,0.414
+1991,Washington Redskins,0.504,0.496
+1991,Seattle Seahawks,0.480,0.512
+1991,Tampa Bay Buccaneers,0.543,0.516
+1991,Detroit Lions,0.469,0.516
+1991,Green Bay Packers,0.516,0.480
+1991,Kansas City Chiefs,0.531,0.520
+1992,Buffalo Bills,0.492,0.465
+1992,Pittsburgh Steelers,0.473,0.461
+1992,New Orleans Saints,0.465,0.527
+1992,Cleveland Browns,0.508,0.457
+1992,Denver Broncos,0.512,0.551
+1992,San Francisco 49ers,0.461,0.500
+1992,New York Jets,0.539,0.477
+1992,Atlanta Falcons,0.535,0.508
+1992,Cincinnati Bengals,0.473,0.461
+1992,Miami Dolphins,0.453,0.480
+1992,Chicago Bears,0.508,0.473
+1992,Indianapolis Colts,0.469,0.438
+1992,Dallas Cowboys,0.426,0.570
+1992,Philadelphia Eagles,0.535,0.566
+1992,New England Patriots,0.516,0.469
+1992,Los Angeles Rams,0.547,0.527
+1992,Phoenix Cardinals,0.570,0.512
+1992,San Diego Chargers,0.445,0.438
+1992,New York Giants,0.527,0.562
+1992,Washington Redskins,0.504,0.566
+1992,Los Angeles Raiders,0.527,0.543
+1992,Houston Oilers,0.531,0.449
+1992,Minnesota Vikings,0.473,0.484
+1992,Seattle Seahawks,0.547,0.535
+1992,Tampa Bay Buccaneers,0.492,0.457
+1992,Detroit Lions,0.551,0.488
+1992,Green Bay Packers,0.445,0.492
+1992,Kansas City Chiefs,0.477,0.543
+1993,Pittsburgh Steelers,0.477,0.496
+1993,Buffalo Bills,0.504,0.504
+1993,New Orleans Saints,0.496,0.512
+1993,Cleveland Browns,0.469,0.504
+1993,Denver Broncos,0.500,0.473
+1993,San Francisco 49ers,0.469,0.508
+1993,New York Jets,0.504,0.527
+1993,Cincinnati Bengals,0.504,0.500
+1993,Atlanta Falcons,0.477,0.539
+1993,Chicago Bears,0.523,0.488
+1993,Indianapolis Colts,0.508,0.492
+1993,Miami Dolphins,0.500,0.508
+1993,Dallas Cowboys,0.496,0.527
+1993,Philadelphia Eagles,0.527,0.543
+1993,San Diego Chargers,0.531,0.488
+1993,Los Angeles Rams,0.496,0.527
+1993,Phoenix Cardinals,0.508,0.508
+1993,New England Patriots,0.492,0.453
+1993,New York Giants,0.469,0.535
+1993,Washington Redskins,0.523,0.512
+1993,Los Angeles Raiders,0.500,0.465
+1993,Minnesota Vikings,0.523,0.516
+1993,Houston Oilers,0.457,0.484
+1993,Seattle Seahawks,0.523,0.461
+1993,Tampa Bay Buccaneers,0.543,0.512
+1993,Detroit Lions,0.445,0.430
+1993,Green Bay Packers,0.520,0.508
+1993,Kansas City Chiefs,0.516,0.480
+1994,New Orleans Saints,0.520,0.500
+1994,Buffalo Bills,0.531,0.500
+1994,Pittsburgh Steelers,0.461,0.484
+1994,Cleveland Browns,0.457,0.477
+1994,Denver Broncos,0.500,0.504
+1994,San Francisco 49ers,0.465,0.484
+1994,New York Jets,0.535,0.512
+1994,Cincinnati Bengals,0.535,0.500
+1994,Atlanta Falcons,0.492,0.469
+1994,Chicago Bears,0.496,0.473
+1994,Miami Dolphins,0.520,0.492
+1994,Indianapolis Colts,0.449,0.469
+1994,Arizona Cardinals,0.469,0.500
+1994,Philadelphia Eagles,0.508,0.457
+1994,Dallas Cowboys,0.469,0.445
+1994,San Diego Chargers,0.492,0.492
+1994,New England Patriots,0.516,0.504
+1994,Los Angeles Rams,0.523,0.477
+1994,New York Giants,0.461,0.434
+1994,Los Angeles Raiders,0.512,0.516
+1994,Washington Redskins,0.504,0.434
+1994,Minnesota Vikings,0.531,0.488
+1994,Houston Oilers,0.523,0.469
+1994,Seattle Seahawks,0.488,0.484
+1994,Tampa Bay Buccaneers,0.488,0.457
+1994,Detroit Lions,0.555,0.520
+1994,Green Bay Packers,0.512,0.496
+1994,Kansas City Chiefs,0.488,0.527
+1995,Buffalo Bills,0.453,0.445
+1995,New Orleans Saints,0.504,0.426
+1995,Pittsburgh Steelers,0.453,0.387
+1995,Cleveland Browns,0.516,0.410
+1995,Denver Broncos,0.527,0.395
+1995,New York Jets,0.488,0.359
+1995,San Francisco 49ers,0.504,0.402
+1995,Cincinnati Bengals,0.480,0.422
+1995,Atlanta Falcons,0.488,0.422
+1995,Chicago Bears,0.508,0.395
+1995,Miami Dolphins,0.508,0.484
+1995,Arizona Cardinals,0.539,0.473
+1995,Indianapolis Colts,0.453,0.387
+1995,Dallas Cowboys,0.496,0.469
+1995,Philadelphia Eagles,0.457,0.426
+1995,San Diego Chargers,0.543,0.480
+1995,New England Patriots,0.520,0.504
+1995,New York Giants,0.547,0.484
+1995,Oakland Raiders,0.543,0.492
+1995,Minnesota Vikings,0.539,0.523
+1995,Washington Redskins,0.508,0.430
+1995,St Louis Rams,0.527,0.441
+1995,Jacksonville Jaguars,0.488,0.453
+1995,Houston Oilers,0.477,0.453
+1995,Seattle Seahawks,0.488,0.379
+1995,Carolina Panthers,0.477,0.434
+1995,Tampa Bay Buccaneers,0.512,0.418
+1995,Detroit Lions,0.496,0.484
+1995,Kansas City Chiefs,0.469,0.434
+1995,Green Bay Packers,0.492,0.477
+1996,Buffalo Bills,0.496,0.492
+1996,New Orleans Saints,0.473,0.434
+1996,Pittsburgh Steelers,0.492,0.434
+1996,Denver Broncos,0.473,0.496
+1996,San Francisco 49ers,0.449,0.484
+1996,New York Jets,0.566,0.469
+1996,Cincinnati Bengals,0.492,0.445
+1996,Atlanta Falcons,0.527,0.520
+1996,Chicago Bears,0.512,0.555
+1996,Miami Dolphins,0.496,0.473
+1996,Indianapolis Colts,0.488,0.457
+1996,Arizona Cardinals,0.480,0.477
+1996,Dallas Cowboys,0.535,0.484
+1996,Philadelphia Eagles,0.488,0.477
+1996,San Diego Chargers,0.551,0.562
+1996,New England Patriots,0.477,0.430
+1996,New York Giants,0.512,0.484
+1996,Jacksonville Jaguars,0.430,0.410
+1996,Washington Redskins,0.500,0.484
+1996,Oakland Raiders,0.480,0.492
+1996,Houston Oilers,0.457,0.434
+1996,Minnesota Vikings,0.492,0.531
+1996,St Louis Rams,0.496,0.469
+1996,Seattle Seahawks,0.555,0.555
+1996,Carolina Panthers,0.430,0.469
+1996,Tampa Bay Buccaneers,0.523,0.520
+1996,Baltimore Ravens,0.559,0.473
+1996,Detroit Lions,0.516,0.559
+1996,Green Bay Packers,0.504,0.570
+1996,Kansas City Chiefs,0.551,0.551
+1997,New Orleans Saints,0.471,0.477
+1997,Buffalo Bills,0.551,0.480
+1997,Pittsburgh Steelers,0.500,0.469
+1997,Denver Broncos,0.484,0.523
+1997,San Francisco 49ers,0.463,0.469
+1997,New York Jets,0.443,0.504
+1997,Tennessee Oilers,0.496,0.492
+1997,Atlanta Falcons,0.467,0.504
+1997,Cincinnati Bengals,0.500,0.430
+1997,Chicago Bears,0.553,0.484
+1997,Miami Dolphins,0.482,0.441
+1997,Indianapolis Colts,0.543,0.492
+1997,Arizona Cardinals,0.498,0.441
+1997,Philadelphia Eagles,0.529,0.516
+1997,Dallas Cowboys,0.520,0.527
+1997,New England Patriots,0.500,0.512
+1997,San Diego Chargers,0.521,0.523
+1997,New York Giants,0.439,0.441
+1997,Washington Redskins,0.451,0.465
+1997,Jacksonville Jaguars,0.506,0.453
+1997,Oakland Raiders,0.531,0.453
+1997,St Louis Rams,0.543,0.512
+1997,Minnesota Vikings,0.510,0.523
+1997,Carolina Panthers,0.514,0.492
+1997,Seattle Seahawks,0.482,0.438
+1997,Tampa Bay Buccaneers,0.529,0.488
+1997,Baltimore Ravens,0.521,0.430
+1997,Detroit Lions,0.512,0.465
+1997,Green Bay Packers,0.455,0.508
+1997,Kansas City Chiefs,0.484,0.547
+1998,Buffalo Bills,0.473,0.465
+1998,Pittsburgh Steelers,0.461,0.551
+1998,New Orleans Saints,0.555,0.473
+1998,Denver Broncos,0.453,0.494
+1998,San Francisco 49ers,0.469,0.465
+1998,New York Jets,0.496,0.482
+1998,Tennessee Oilers,0.492,0.539
+1998,Cincinnati Bengals,0.539,0.543
+1998,Atlanta Falcons,0.414,0.480
+1998,Indianapolis Colts,0.547,0.494
+1998,Miami Dolphins,0.531,0.465
+1998,Arizona Cardinals,0.395,0.453
+1998,Chicago Bears,0.574,0.549
+1998,Dallas Cowboys,0.461,0.477
+1998,Philadelphia Eagles,0.523,0.504
+1998,New England Patriots,0.555,0.504
+1998,San Diego Chargers,0.496,0.496
+1998,New York Giants,0.527,0.492
+1998,Oakland Raiders,0.508,0.514
+1998,Washington Redskins,0.523,0.473
+1998,Minnesota Vikings,0.430,0.508
+1998,St Louis Rams,0.562,0.482
+1998,Jacksonville Jaguars,0.473,0.535
+1998,Seattle Seahawks,0.492,0.477
+1998,Carolina Panthers,0.555,0.494
+1998,Tampa Bay Buccaneers,0.480,0.543
+1998,Baltimore Ravens,0.473,0.504
+1998,Detroit Lions,0.551,0.539
+1998,Kansas City Chiefs,0.543,0.484
+1998,Green Bay Packers,0.449,0.521
+1999,Cleveland Browns,0.559,0.332
+1999,Pittsburgh Steelers,0.500,0.371
+1999,New Orleans Saints,0.504,0.449
+1999,Buffalo Bills,0.527,0.480
+1999,Denver Broncos,0.562,0.535
+1999,San Francisco 49ers,0.504,0.461
+1999,New York Jets,0.586,0.539
+1999,Atlanta Falcons,0.516,0.461
+1999,Cincinnati Bengals,0.551,0.328
+1999,Miami Dolphins,0.562,0.480
+1999,Chicago Bears,0.543,0.488
+1999,Indianapolis Colts,0.488,0.484
+1999,Arizona Cardinals,0.473,0.535
+1999,Dallas Cowboys,0.469,0.516
+1999,Tennessee Titans,0.430,0.422
+1999,Philadelphia Eagles,0.551,0.461
+1999,San Diego Chargers,0.484,0.488
+1999,New England Patriots,0.520,0.496
+1999,New York Giants,0.527,0.480
+1999,Jacksonville Jaguars,0.391,0.367
+1999,Minnesota Vikings,0.473,0.523
+1999,Oakland Raiders,0.547,0.539
+1999,Washington Redskins,0.465,0.469
+1999,St Louis Rams,0.363,0.395
+1999,Seattle Seahawks,0.484,0.500
+1999,Carolina Panthers,0.418,0.461
+1999,Tampa Bay Buccaneers,0.453,0.539
+1999,Detroit Lions,0.543,0.520
+1999,Baltimore Ravens,0.496,0.359
+1999,Green Bay Packers,0.496,0.523
+1999,Kansas City Chiefs,0.516,0.496
+2000,Buffalo Bills,0.516,0.586
+2000,Cleveland Browns,0.562,0.508
+2000,New Orleans Saints,0.438,0.453
+2000,Pittsburgh Steelers,0.512,0.500
+2000,Denver Broncos,0.402,0.449
+2000,New York Jets,0.566,0.559
+2000,San Francisco 49ers,0.449,0.457
+2000,Cincinnati Bengals,0.523,0.500
+2000,Atlanta Falcons,0.562,0.465
+2000,Miami Dolphins,0.492,0.570
+2000,Indianapolis Colts,0.516,0.562
+2000,Chicago Bears,0.582,0.520
+2000,Arizona Cardinals,0.523,0.441
+2000,Tennessee Titans,0.473,0.461
+2000,Dallas Cowboys,0.539,0.500
+2000,Philadelphia Eagles,0.441,0.426
+2000,San Diego Chargers,0.566,0.492
+2000,New England Patriots,0.531,0.539
+2000,New York Giants,0.445,0.488
+2000,St Louis Rams,0.469,0.430
+2000,Oakland Raiders,0.422,0.441
+2000,Jacksonville Jaguars,0.492,0.465
+2000,Minnesota Vikings,0.488,0.555
+2000,Washington Redskins,0.543,0.520
+2000,Seattle Seahawks,0.504,0.539
+2000,Carolina Panthers,0.465,0.469
+2000,Tampa Bay Buccaneers,0.500,0.531
+2000,Detroit Lions,0.543,0.520
+2000,Baltimore Ravens,0.426,0.496
+2000,Green Bay Packers,0.527,0.523
+2000,Kansas City Chiefs,0.480,0.535
+2001,Pittsburgh Steelers,0.418,0.516
+2001,Cleveland Browns,0.531,0.488
+2001,Buffalo Bills,0.531,0.469
+2001,New Orleans Saints,0.496,0.496
+2001,Denver Broncos,0.488,0.461
+2001,San Francisco 49ers,0.465,0.508
+2001,New York Jets,0.512,0.520
+2001,Atlanta Falcons,0.531,0.477
+2001,Cincinnati Bengals,0.531,0.496
+2001,Arizona Cardinals,0.445,0.500
+2001,Miami Dolphins,0.500,0.520
+2001,Chicago Bears,0.465,0.488
+2001,Indianapolis Colts,0.562,0.539
+2001,Tennessee Titans,0.520,0.516
+2001,Philadelphia Eagles,0.484,0.465
+2001,Dallas Cowboys,0.500,0.496
+2001,San Diego Chargers,0.484,0.465
+2001,New England Patriots,0.449,0.492
+2001,New York Giants,0.520,0.508
+2001,Washington Redskins,0.473,0.461
+2001,St Louis Rams,0.473,0.512
+2001,Jacksonville Jaguars,0.523,0.500
+2001,Minnesota Vikings,0.523,0.574
+2001,Oakland Raiders,0.469,0.484
+2001,Seattle Seahawks,0.453,0.496
+2001,Carolina Panthers,0.574,0.484
+2001,Baltimore Ravens,0.512,0.500
+2001,Tampa Bay Buccaneers,0.535,0.555
+2001,Detroit Lions,0.582,0.480
+2001,Green Bay Packers,0.434,0.531
+2001,Kansas City Chiefs,0.516,0.504
+2002,Pittsburgh Steelers,0.486,0.430
+2002,New Orleans Saints,0.498,0.477
+2002,Cleveland Browns,0.486,0.457
+2002,Buffalo Bills,0.473,0.512
+2002,Denver Broncos,0.527,0.527
+2002,New York Jets,0.500,0.484
+2002,San Francisco 49ers,0.504,0.543
+2002,Atlanta Falcons,0.494,0.461
+2002,Cincinnati Bengals,0.537,0.434
+2002,Miami Dolphins,0.508,0.488
+2002,Indianapolis Colts,0.479,0.438
+2002,Chicago Bears,0.521,0.477
+2002,Arizona Cardinals,0.500,0.520
+2002,Houston Texans,0.518,0.441
+2002,Dallas Cowboys,0.500,0.453
+2002,Tennessee Titans,0.479,0.438
+2002,Philadelphia Eagles,0.469,0.480
+2002,New England Patriots,0.525,0.504
+2002,San Diego Chargers,0.492,0.512
+2002,New York Giants,0.482,0.473
+2002,Oakland Raiders,0.529,0.527
+2002,St Louis Rams,0.508,0.539
+2002,Jacksonville Jaguars,0.506,0.426
+2002,Minnesota Vikings,0.498,0.504
+2002,Washington Redskins,0.527,0.492
+2002,Seattle Seahawks,0.506,0.539
+2002,Carolina Panthers,0.486,0.492
+2002,Tampa Bay Buccaneers,0.482,0.480
+2002,Detroit Lions,0.494,0.512
+2002,Baltimore Ravens,0.506,0.445
+2002,Green Bay Packers,0.451,0.465
+2002,Kansas City Chiefs,0.527,0.531
+2003,New Orleans Saints,0.500,0.520
+2003,Cleveland Browns,0.539,0.480
+2003,Pittsburgh Steelers,0.500,0.473
+2003,Buffalo Bills,0.570,0.504
+2003,Denver Broncos,0.500,0.494
+2003,San Francisco 49ers,0.512,0.451
+2003,New York Jets,0.527,0.541
+2003,Atlanta Falcons,0.539,0.523
+2003,Cincinnati Bengals,0.457,0.508
+2003,Chicago Bears,0.488,0.480
+2003,Arizona Cardinals,0.543,0.443
+2003,Indianapolis Colts,0.492,0.518
+2003,Miami Dolphins,0.512,0.516
+2003,Philadelphia Eagles,0.477,0.541
+2003,Tennessee Titans,0.473,0.523
+2003,Dallas Cowboys,0.461,0.541
+2003,Houston Texans,0.570,0.533
+2003,San Diego Chargers,0.504,0.486
+2003,New England Patriots,0.484,0.527
+2003,New York Giants,0.555,0.521
+2003,Oakland Raiders,0.516,0.482
+2003,Minnesota Vikings,0.457,0.479
+2003,Jacksonville Jaguars,0.543,0.537
+2003,St Louis Rams,0.434,0.457
+2003,Washington Redskins,0.531,0.537
+2003,Seattle Seahawks,0.465,0.443
+2003,Carolina Panthers,0.445,0.523
+2003,Tampa Bay Buccaneers,0.508,0.539
+2003,Detroit Lions,0.535,0.473
+2003,Baltimore Ravens,0.457,0.480
+2003,Kansas City Chiefs,0.418,0.475
+2003,Green Bay Packers,0.488,0.449
+2004,New Orleans Saints,0.465,0.504
+2004,Buffalo Bills,0.512,0.512
+2004,Cleveland Browns,0.590,0.484
+2004,Pittsburgh Steelers,0.484,0.477
+2004,Denver Broncos,0.484,0.488
+2004,San Francisco 49ers,0.488,0.512
+2004,New York Jets,0.523,0.512
+2004,Atlanta Falcons,0.434,0.488
+2004,Cincinnati Bengals,0.543,0.512
+2004,Arizona Cardinals,0.461,0.523
+2004,Chicago Bears,0.465,0.496
+2004,Miami Dolphins,0.555,0.531
+2004,Indianapolis Colts,0.500,0.508
+2004,Dallas Cowboys,0.516,0.469
+2004,Philadelphia Eagles,0.453,0.473
+2004,Houston Texans,0.504,0.512
+2004,Tennessee Titans,0.512,0.484
+2004,San Diego Chargers,0.477,0.508
+2004,New England Patriots,0.492,0.512
+2004,New York Giants,0.516,0.480
+2004,Minnesota Vikings,0.480,0.496
+2004,St Louis Rams,0.488,0.512
+2004,Jacksonville Jaguars,0.527,0.516
+2004,Washington Redskins,0.477,0.492
+2004,Oakland Raiders,0.570,0.512
+2004,Carolina Panthers,0.508,0.492
+2004,Seattle Seahawks,0.445,0.516
+2004,Detroit Lions,0.496,0.492
+2004,Baltimore Ravens,0.551,0.508
+2004,Tampa Bay Buccaneers,0.477,0.484
+2004,Green Bay Packers,0.457,0.508
+2004,Kansas City Chiefs,0.551,0.488
+2005,New Orleans Saints,0.523,0.492
+2005,Pittsburgh Steelers,0.492,0.508
+2005,Buffalo Bills,0.500,0.531
+2005,Cleveland Browns,0.508,0.527
+2005,Denver Broncos,0.500,0.523
+2005,San Francisco 49ers,0.539,0.469
+2005,New York Jets,0.527,0.535
+2005,Atlanta Falcons,0.492,0.500
+2005,Cincinnati Bengals,0.477,0.523
+2005,Indianapolis Colts,0.457,0.504
+2005,Arizona Cardinals,0.508,0.449
+2005,Chicago Bears,0.457,0.480
+2005,Miami Dolphins,0.457,0.547
+2005,Philadelphia Eagles,0.531,0.453
+2005,Dallas Cowboys,0.523,0.477
+2005,Tennessee Titans,0.512,0.492
+2005,Houston Texans,0.535,0.504
+2005,San Diego Chargers,0.559,0.543
+2005,New England Patriots,0.508,0.539
+2005,New York Giants,0.492,0.488
+2005,St Louis Rams,0.484,0.445
+2005,Jacksonville Jaguars,0.465,0.504
+2005,Minnesota Vikings,0.484,0.480
+2005,Washington Redskins,0.539,0.465
+2005,Oakland Raiders,0.539,0.527
+2005,Seattle Seahawks,0.430,0.457
+2005,Carolina Panthers,0.449,0.492
+2005,Baltimore Ravens,0.523,0.531
+2005,Detroit Lions,0.504,0.488
+2005,Tampa Bay Buccaneers,0.449,0.492
+2005,Green Bay Packers,0.531,0.496
+2005,Kansas City Chiefs,0.504,0.535
+2006,Cleveland Browns,0.535,0.512
+2006,New Orleans Saints,0.461,0.539
+2006,Buffalo Bills,0.574,0.477
+2006,Pittsburgh Steelers,0.496,0.531
+2006,Denver Broncos,0.531,0.516
+2006,San Francisco 49ers,0.500,0.477
+2006,New York Jets,0.469,0.465
+2006,Atlanta Falcons,0.457,0.508
+2006,Cincinnati Bengals,0.535,0.543
+2006,Indianapolis Colts,0.500,0.484
+2006,Arizona Cardinals,0.500,0.500
+2006,Chicago Bears,0.430,0.445
+2006,Miami Dolphins,0.543,0.469
+2006,Dallas Cowboys,0.457,0.504
+2006,Houston Texans,0.504,0.523
+2006,Philadelphia Eagles,0.477,0.520
+2006,Tennessee Titans,0.570,0.527
+2006,San Diego Chargers,0.457,0.488
+2006,New England Patriots,0.496,0.473
+2006,New York Giants,0.520,0.543
+2006,Oakland Raiders,0.555,0.516
+2006,Washington Redskins,0.512,0.516
+2006,Minnesota Vikings,0.488,0.457
+2006,Jacksonville Jaguars,0.531,0.488
+2006,St Louis Rams,0.465,0.508
+2006,Carolina Panthers,0.473,0.504
+2006,Seattle Seahawks,0.453,0.457
+2006,Detroit Lions,0.523,0.473
+2006,Tampa Bay Buccaneers,0.535,0.539
+2006,Baltimore Ravens,0.461,0.523
+2006,Green Bay Packers,0.500,0.449
+2006,Kansas City Chiefs,0.492,0.527
+2007,Cleveland Browns,0.430,0.508
+2007,Pittsburgh Steelers,0.453,0.512
+2007,Buffalo Bills,0.516,0.539
+2007,New Orleans Saints,0.480,0.484
+2007,Denver Broncos,0.516,0.504
+2007,San Francisco 49ers,0.465,0.469
+2007,New York Jets,0.523,0.516
+2007,Cincinnati Bengals,0.461,0.512
+2007,Atlanta Falcons,0.516,0.473
+2007,Arizona Cardinals,0.434,0.461
+2007,Chicago Bears,0.543,0.465
+2007,Miami Dolphins,0.539,0.512
+2007,Indianapolis Colts,0.516,0.516
+2007,Dallas Cowboys,0.496,0.496
+2007,Philadelphia Eagles,0.562,0.500
+2007,Tennessee Titans,0.500,0.520
+2007,Houston Texans,0.516,0.504
+2007,San Diego Chargers,0.500,0.504
+2007,New England Patriots,0.469,0.535
+2007,New York Giants,0.516,0.496
+2007,Oakland Raiders,0.516,0.539
+2007,Washington Redskins,0.555,0.500
+2007,Minnesota Vikings,0.504,0.500
+2007,St Louis Rams,0.512,0.473
+2007,Jacksonville Jaguars,0.516,0.508
+2007,Seattle Seahawks,0.414,0.488
+2007,Carolina Panthers,0.523,0.477
+2007,Baltimore Ravens,0.516,0.508
+2007,Detroit Lions,0.543,0.504
+2007,Tampa Bay Buccaneers,0.469,0.473
+2007,Green Bay Packers,0.469,0.492
+2007,Kansas City Chiefs,0.516,0.516
+2008,Cleveland Browns,0.572,0.547
+2008,New Orleans Saints,0.496,0.449
+2008,Buffalo Bills,0.453,0.449
+2008,Pittsburgh Steelers,0.525,0.598
+2008,Denver Broncos,0.457,0.445
+2008,San Francisco 49ers,0.447,0.484
+2008,New York Jets,0.471,0.457
+2008,Atlanta Falcons,0.459,0.461
+2008,Cincinnati Bengals,0.553,0.547
+2008,Indianapolis Colts,0.498,0.594
+2008,Chicago Bears,0.475,0.531
+2008,Arizona Cardinals,0.486,0.465
+2008,Miami Dolphins,0.461,0.465
+2008,Dallas Cowboys,0.498,0.523
+2008,Philadelphia Eagles,0.514,0.520
+2008,Tennessee Titans,0.459,0.543
+2008,Houston Texans,0.518,0.547
+2008,San Diego Chargers,0.516,0.422
+2008,New England Patriots,0.480,0.387
+2008,New York Giants,0.502,0.520
+2008,Oakland Raiders,0.520,0.438
+2008,Minnesota Vikings,0.504,0.551
+2008,St Louis Rams,0.533,0.488
+2008,Jacksonville Jaguars,0.537,0.559
+2008,Washington Redskins,0.479,0.523
+2008,Carolina Panthers,0.488,0.465
+2008,Seattle Seahawks,0.498,0.477
+2008,Tampa Bay Buccaneers,0.480,0.469
+2008,Detroit Lions,0.559,0.543
+2008,Baltimore Ravens,0.521,0.551
+2008,Green Bay Packers,0.504,0.531
+2008,Kansas City Chiefs,0.537,0.453
+2009,Buffalo Bills,0.516,0.570
+2009,New Orleans Saints,0.426,0.557
+2009,Cleveland Browns,0.512,0.449
+2009,Pittsburgh Steelers,0.488,0.434
+2009,Denver Broncos,0.527,0.480
+2009,San Francisco 49ers,0.477,0.443
+2009,New York Jets,0.516,0.568
+2009,Cincinnati Bengals,0.492,0.465
+2009,Atlanta Falcons,0.504,0.588
+2009,Chicago Bears,0.496,0.414
+2009,Arizona Cardinals,0.445,0.441
+2009,Indianapolis Colts,0.473,0.512
+2009,Miami Dolphins,0.559,0.594
+2009,Dallas Cowboys,0.488,0.516
+2009,Houston Texans,0.504,0.506
+2009,Philadelphia Eagles,0.484,0.535
+2009,Tennessee Titans,0.539,0.508
+2009,San Diego Chargers,0.453,0.484
+2009,New England Patriots,0.516,0.590
+2009,New York Giants,0.535,0.527
+2009,Oakland Raiders,0.527,0.480
+2009,St Louis Rams,0.520,0.465
+2009,Washington Redskins,0.492,0.492
+2009,Jacksonville Jaguars,0.496,0.516
+2009,Minnesota Vikings,0.441,0.420
+2009,Seattle Seahawks,0.477,0.457
+2009,Carolina Panthers,0.539,0.592
+2009,Tampa Bay Buccaneers,0.555,0.580
+2009,Detroit Lions,0.523,0.467
+2009,Baltimore Ravens,0.523,0.438
+2009,Green Bay Packers,0.441,0.428
+2009,Kansas City Chiefs,0.516,0.484
+2010,Cleveland Browns,0.570,0.516
+2010,Pittsburgh Steelers,0.500,0.492
+2010,Buffalo Bills,0.578,0.500
+2010,New Orleans Saints,0.469,0.469
+2010,Denver Broncos,0.516,0.484
+2010,New York Jets,0.492,0.500
+2010,San Francisco 49ers,0.488,0.457
+2010,Cincinnati Bengals,0.582,0.539
+2010,Atlanta Falcons,0.484,0.496
+2010,Arizona Cardinals,0.465,0.445
+2010,Indianapolis Colts,0.473,0.516
+2010,Chicago Bears,0.473,0.504
+2010,Miami Dolphins,0.539,0.500
+2010,Dallas Cowboys,0.512,0.543
+2010,Philadelphia Eagles,0.492,0.520
+2010,Tennessee Titans,0.508,0.547
+2010,Houston Texans,0.523,0.547
+2010,San Diego Chargers,0.457,0.453
+2010,New England Patriots,0.504,0.531
+2010,New York Giants,0.453,0.527
+2010,Washington Redskins,0.516,0.523
+2010,St Louis Rams,0.449,0.449
+2010,Oakland Raiders,0.469,0.500
+2010,Jacksonville Jaguars,0.453,0.535
+2010,Minnesota Vikings,0.539,0.504
+2010,Seattle Seahawks,0.484,0.453
+2010,Carolina Panthers,0.574,0.477
+2010,Baltimore Ravens,0.484,0.508
+2010,Tampa Bay Buccaneers,0.477,0.480
+2010,Detroit Lions,0.543,0.508
+2010,Kansas City Chiefs,0.414,0.488
+2010,Green Bay Packers,0.520,0.488
+2011,Cleveland Browns,0.531,0.492
+2011,Buffalo Bills,0.520,0.535
+2011,Pittsburgh Steelers,0.492,0.473
+2011,New Orleans Saints,0.441,0.508
+2011,Denver Broncos,0.520,0.520
+2011,New York Jets,0.500,0.520
+2011,San Francisco 49ers,0.449,0.465
+2011,Cincinnati Bengals,0.492,0.473
+2011,Atlanta Falcons,0.480,0.492
+2011,Miami Dolphins,0.504,0.516
+2011,Arizona Cardinals,0.469,0.441
+2011,Indianapolis Colts,0.539,0.520
+2011,Chicago Bears,0.527,0.500
+2011,Dallas Cowboys,0.473,0.504
+2011,Tennessee Titans,0.461,0.488
+2011,Philadelphia Eagles,0.488,0.504
+2011,Houston Texans,0.453,0.516
+2011,New England Patriots,0.449,0.504
+2011,San Diego Chargers,0.516,0.520
+2011,New York Giants,0.520,0.492
+2011,Oakland Raiders,0.504,0.492
+2011,Minnesota Vikings,0.559,0.516
+2011,Washington Redskins,0.477,0.473
+2011,Jacksonville Jaguars,0.500,0.520
+2011,St Louis Rams,0.590,0.477
+2011,Seattle Seahawks,0.512,0.488
+2011,Carolina Panthers,0.504,0.555
+2011,Tampa Bay Buccaneers,0.551,0.496
+2011,Detroit Lions,0.535,0.520
+2011,Baltimore Ravens,0.477,0.457
+2011,Kansas City Chiefs,0.512,0.520
+2011,Green Bay Packers,0.457,0.508
+2012,Pittsburgh Steelers,0.465,0.500
+2012,New Orleans Saints,0.521,0.504
+2012,Buffalo Bills,0.480,0.473
+2012,Cleveland Browns,0.508,0.527
+2012,Denver Broncos,0.457,0.543
+2012,San Francisco 49ers,0.504,0.488
+2012,New York Jets,0.512,0.492
+2012,Cincinnati Bengals,0.438,0.500
+2012,Atlanta Falcons,0.422,0.488
+2012,Arizona Cardinals,0.559,0.512
+2012,Miami Dolphins,0.500,0.496
+2012,Chicago Bears,0.512,0.492
+2012,Indianapolis Colts,0.441,0.500
+2012,Houston Texans,0.496,0.473
+2012,Tennessee Titans,0.512,0.480
+2012,Philadelphia Eagles,0.508,0.516
+2012,Dallas Cowboys,0.523,0.504
+2012,San Diego Chargers,0.457,0.520
+2012,New England Patriots,0.496,0.453
+2012,New York Giants,0.521,0.547
+2012,Oakland Raiders,0.469,0.496
+2012,St Louis Rams,0.539,0.523
+2012,Minnesota Vikings,0.520,0.512
+2012,Jacksonville Jaguars,0.539,0.500
+2012,Washington Redskins,0.494,0.488
+2012,Seattle Seahawks,0.504,0.504
+2012,Carolina Panthers,0.516,0.508
+2012,Baltimore Ravens,0.496,0.523
+2012,Tampa Bay Buccaneers,0.502,0.484
+2012,Detroit Lions,0.566,0.492
+2012,Green Bay Packers,0.508,0.469
+2012,Kansas City Chiefs,0.516,0.492
+2013,Buffalo Bills,0.520,0.473
+2013,Cleveland Browns,0.516,0.492
+2013,Pittsburgh Steelers,0.469,0.492
+2013,New Orleans Saints,0.516,0.510
+2013,Denver Broncos,0.469,0.430
+2013,New York Jets,0.488,0.496
+2013,San Francisco 49ers,0.494,0.461
+2013,Cincinnati Bengals,0.480,0.508
+2013,Atlanta Falcons,0.553,0.475
+2013,Miami Dolphins,0.523,0.520
+2013,Indianapolis Colts,0.484,0.432
+2013,Chicago Bears,0.465,0.473
+2013,Arizona Cardinals,0.531,0.461
+2013,Houston Texans,0.559,0.443
+2013,Philadelphia Eagles,0.453,0.496
+2013,Dallas Cowboys,0.484,0.445
+2013,Tennessee Titans,0.504,0.459
+2013,San Diego Chargers,0.496,0.457
+2013,New England Patriots,0.473,0.508
+2013,New York Giants,0.520,0.480
+2013,Washington Redskins,0.516,0.498
+2013,Jacksonville Jaguars,0.504,0.479
+2013,Oakland Raiders,0.523,0.469
+2013,Minnesota Vikings,0.512,0.516
+2013,St. Louis Rams,0.551,0.539
+2013,Carolina Panthers,0.494,0.514
+2013,Seattle Seahawks,0.490,0.457
+2013,Tampa Bay Buccaneers,0.574,0.471
+2013,Detroit Lions,0.457,0.539
+2013,Baltimore Ravens,0.484,0.535
+2013,Kansas City Chiefs,0.445,0.473
+2013,Green Bay Packers,0.453,0.533
+2014,Buffalo Bills,0.516,0.500
+2014,New Orleans Saints,0.486,0.469
+2014,Cleveland Browns,0.479,0.465
+2014,Pittsburgh Steelers,0.451,0.469
+2014,Denver Broncos,0.521,0.570
+2014,San Francisco 49ers,0.527,0.562
+2014,New York Jets,0.543,0.520
+2014,Atlanta Falcons,0.482,0.512
+2014,Cincinnati Bengals,0.498,0.469
+2014,Arizona Cardinals,0.523,0.547
+2014,Chicago Bears,0.529,0.496
+2014,Miami Dolphins,0.512,0.508
+2014,Indianapolis Colts,0.479,0.430
+2014,Tennessee Titans,0.506,0.438
+2014,Philadelphia Eagles,0.490,0.479
+2014,Dallas Cowboys,0.445,0.488
+2014,Houston Texans,0.447,0.441
+2014,San Diego Chargers,0.512,0.562
+2014,New England Patriots,0.514,0.516
+2014,New York Giants,0.512,0.465
+2014,St. Louis Rams,0.531,0.564
+2014,Minnesota Vikings,0.475,0.477
+2014,Jacksonville Jaguars,0.514,0.453
+2014,Washington Redskins,0.496,0.490
+2014,Oakland Raiders,0.570,0.578
+2014,Carolina Panthers,0.490,0.473
+2014,Seattle Seahawks,0.525,0.561
+2014,Detroit Lions,0.471,0.492
+2014,Baltimore Ravens,0.475,0.461
+2014,Tampa Bay Buccaneers,0.486,0.484
+2014,Kansas City Chiefs,0.512,0.559
+2014,Green Bay Packers,0.482,0.504
